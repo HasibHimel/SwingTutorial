@@ -7,8 +7,11 @@ public class Launcher {
 //		Basic basic = new Basic();
 //		basic.showWindow();
 		
-		JButtonClass jbutton = new JButtonClass();
-		jbutton.showWindow();
+//		JButtonClass jbutton = new JButtonClass();
+//		jbutton.showWindow();
+		
+		JLabelClass jlabelex = new JLabelClass();
+		jlabelex.showWindow();
 
 	}  
 }
